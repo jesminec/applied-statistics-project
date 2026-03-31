@@ -7,7 +7,7 @@
 ## 📁 Project Structure
 
 ```
-applied-statistics-project/
+statistical-analysis-sports-startups/
 │
 ├── applied_statistics_project.ipynb   # Main Jupyter Notebook
 ├── applied_statistics_project.html    # HTML export of the notebook
